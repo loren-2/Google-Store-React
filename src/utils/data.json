@@ -46,7 +46,7 @@
             "category": "Music & Sound",
             "price€": 229.00,
             "color": "New York pink",
-            "url": "../../public/img/smartwatch/smartwatch_black.png"
+            "url": "../../public/img/earbuds/earbuds_01.png"
         },
         {
             "id": 7,
@@ -54,7 +54,7 @@
             "category": "Health & Fitness Tracker",
             "price€": 99.95,
             "color": "Midnight Zen",
-            "url": "../../public/img/smartwatch/smartwatch_pink.png"
+            "url": "../../public/img/smartwatch/smartwatch_black.png"
         },
         {
             "id": 8,
@@ -62,7 +62,7 @@
             "category": "Health & Fitness Tracker",
             "price€": 99.95,
             "color": "Lilac Bliss",
-            "url": "../../public/img/smartwatch/smartwatch_yellow.png"
+            "url": "../../public/img/smartwatch/smartwatch_pink.png"
         },
         {
             "id": 9,
@@ -70,7 +70,7 @@
             "category": "Health & Fitness Tracker",
             "price€": 99.95,
             "color": "Morning Glow",
-            "url": ""
+            "url": "../../public/img/smartwatch/smartwatch_yellow.png"
         }
     ]
 }
